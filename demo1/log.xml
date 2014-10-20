@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="./" tests="2" assertions="25" failures="0" errors="0" time="19.035084">
+    <testsuite name="devmateStoryFeaturesTest" file="/home/tim/Demo1/demo1/StoryFearuresTest.php" tests="1" assertions="19" failures="0" errors="0" time="9.565091">
+      <testcase name="StoryFeaturesTest" class="devmateStoryFeaturesTest" file="/home/tim/Demo1/demo1/StoryFearuresTest.php" line="16" assertions="19" time="9.565091">
+        <system-out>StoryFeaturesTest: Test: StoryFeaturesTest
+StoryFeaturesTest: Site: http://www.devmate.com
+StoryFeaturesTest: Story check: storyFeatures
+StoryFeaturesTest: Executing step: Open home page
+StoryFeaturesTest: Checking item: page
+StoryFeaturesTest: Executing step: Click features and open features/frameworks page
+StoryFeaturesTest: Checking item: featuresLink
+StoryFeaturesTest: Checking item: page
+StoryFeaturesTest: Executing step: Check Framework Updates image, screenshot
+StoryFeaturesTest: Checking item: frameworkUpdatesImage
+StoryFeaturesTest: Executing step: Open management page
+StoryFeaturesTest: Checking item: page
+StoryFeaturesTest: Executing step: Check Easy Updates image, screenshot
+StoryFeaturesTest: Checking item: easyUpdatesImage
+</system-out>
+      </testcase>
+    </testsuite>
+    <testsuite name="devmateStorySolutionTest" file="/home/tim/Demo1/demo1/StorySolutionTest.php" tests="1" assertions="6" failures="0" errors="0" time="9.469993">
+      <testcase name="StorySolutionTest" class="devmateStorySolutionTest" file="/home/tim/Demo1/demo1/StorySolutionTest.php" line="16" assertions="6" time="9.469993">
+        <system-out>StorySolutionTest: Test: StorySolutionTest
+StorySolutionTest: Site: http://www.devmate.com
+StorySolutionTest: Story check: storySolution
+StorySolutionTest: Executing step: Open home page
+StorySolutionTest: Checking item: page
+StorySolutionTest: Executing step: Click signup and open signup page
+StorySolutionTest: Checking item: signupButton
+StorySolutionTest: Checking item: page
+StorySolutionTest: Executing step: Check "Selling outside" box and see Solution input
+StorySolutionTest: Checking item: sellingOutsideBox
+StorySolutionTest: Checking item: whatSolutionInput
+</system-out>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>
